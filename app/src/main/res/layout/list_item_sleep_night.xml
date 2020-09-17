@@ -6,7 +6,7 @@
     <data>
         <variable
             name="sleepNight"
-            type="com.example.android.trackmysleepquality.database.SleepNight" />
+            type="com.example.android.trackmysleepquality.database.SleepNight"/>
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
